@@ -1,3 +1,9 @@
 Sempre que iniciar um projeto iniciar com o comando:
 git init
 
+Configurar chave ssh
+	Ir no github, clicar em settings
+	Primeiro gerar a key ssh nesse link: 
+	
+	teste
+	
