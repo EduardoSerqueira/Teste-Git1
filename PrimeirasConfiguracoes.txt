@@ -1,0 +1,3 @@
+Sempre que iniciar um projeto iniciar com o comando:
+git init
+
